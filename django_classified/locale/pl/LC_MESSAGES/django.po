@@ -1,0 +1,280 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Sergey <inoks@mail.ru>, 2016
+# mic <winterfall24@gmail.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: Django Classified App\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-12 22:36+0200\n"
+"PO-Revision-Date: 2018-07-25 13:17+0000\n"
+"Last-Translator: Sergey <inoks@mail.ru>\n"
+"Language-Team: Polish (http://www.transifex.com/inoks/django-classified/"
+"language/pl/)\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n"
+"%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n"
+"%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#: django_classified/forms.py:8
+msgid "Area"
+msgstr ""
+
+#: django_classified/forms.py:9
+#: django_classified/templates/django_classified/user_item_list.html:16
+msgid "Group"
+msgstr "Grupa"
+
+#: django_classified/forms.py:10
+msgid "Query"
+msgstr "Zapytanie"
+
+#: django_classified/models.py:15
+#: django_classified/templates/django_classified/item_detail.html:90
+msgid "Contact phone"
+msgstr ""
+
+#: django_classified/models.py:16
+msgid "receive news"
+msgstr ""
+
+#: django_classified/models.py:31 django_classified/models.py:59
+#: django_classified/models.py:78 django_classified/models.py:113
+msgid "title"
+msgstr "tytuł"
+
+#: django_classified/models.py:37 django_classified/models.py:111
+msgid "area"
+msgstr ""
+
+#: django_classified/models.py:38
+msgid "areas"
+msgstr ""
+
+#: django_classified/models.py:72 django_classified/models.py:79
+msgid "section"
+msgstr "sekcja"
+
+#: django_classified/models.py:73
+msgid "sections"
+msgstr "sekcje"
+
+#: django_classified/models.py:89 django_classified/models.py:110
+msgid "group"
+msgstr "grupa"
+
+#: django_classified/models.py:90
+msgid "groups"
+msgstr "grupy"
+
+#: django_classified/models.py:114
+msgid "description"
+msgstr "opis"
+
+#: django_classified/models.py:115
+msgid "price"
+msgstr "cena"
+
+#: django_classified/models.py:116
+msgid "active"
+msgstr ""
+
+#: django_classified/models.py:117
+msgid "updated"
+msgstr "zaktualizowany"
+
+#: django_classified/models.py:118
+msgid "posted"
+msgstr ""
+
+#: django_classified/models.py:125
+msgid "in active"
+msgstr ""
+
+#: django_classified/models.py:130
+#: django_classified/templates/django_classified/item_form.html:6
+msgid "item"
+msgstr ""
+
+#: django_classified/models.py:131
+msgid "items"
+msgstr ""
+
+#: django_classified/models.py:173
+msgid "image"
+msgstr ""
+
+#: django_classified/templates/django_classified/_base.html:44
+msgid "Add new"
+msgstr ""
+
+#: django_classified/templates/django_classified/_base.html:46
+msgid "Blog"
+msgstr ""
+
+#: django_classified/templates/django_classified/_base.html:48
+msgid "Home"
+msgstr "Home"
+
+#: django_classified/templates/django_classified/_base.html:49
+#: django_classified/templates/django_classified/search.html:7
+#: django_classified/templates/django_classified/search.html:13
+#: django_classified/templates/django_classified/search.html:16
+msgid "Search"
+msgstr "Szukaj"
+
+#: django_classified/templates/django_classified/_base.html:56
+#: django_classified/templates/django_classified/user_item_list.html:5
+#: django_classified/templates/django_classified/user_item_list.html:10
+msgid "My items"
+msgstr ""
+
+#: django_classified/templates/django_classified/_base.html:59
+#: django_classified/templates/django_classified/profile.html:5
+msgid "Profile"
+msgstr "Profil"
+
+#: django_classified/templates/django_classified/_base.html:62
+msgid "Logout"
+msgstr "Wyloguj"
+
+#: django_classified/templates/django_classified/_base.html:67
+#: django_classified/templates/django_classified/_base.html:68
+msgid "Login"
+msgstr ""
+
+#: django_classified/templates/django_classified/_base.html:79
+msgid "All areas"
+msgstr ""
+
+#: django_classified/templates/django_classified/_base.html:111
+msgid "Powered by"
+msgstr ""
+
+#: django_classified/templates/django_classified/admin_toolbar.inc.html:7
+#: django_classified/templates/django_classified/item_confirm_delete.html:5
+#: django_classified/templates/django_classified/user_item_list.html:22
+#: django_classified/templates/django_classified/user_item_list.html:42
+msgid "Delete"
+msgstr ""
+
+#: django_classified/templates/django_classified/admin_toolbar.inc.html:10
+#: django_classified/templates/django_classified/item_form.html:5
+#: django_classified/templates/django_classified/user_item_list.html:21
+#: django_classified/templates/django_classified/user_item_list.html:37
+msgid "Edit"
+msgstr "Edytuj"
+
+#: django_classified/templates/django_classified/form_pagination.inc.html:13
+#: django_classified/templates/django_classified/list_pagination.inc.html:7
+msgid "Prev"
+msgstr "Poprzedni"
+
+#: django_classified/templates/django_classified/form_pagination.inc.html:25
+#: django_classified/templates/django_classified/list_pagination.inc.html:12
+msgid "Next"
+msgstr "Następny"
+
+#: django_classified/templates/django_classified/item_confirm_delete.html:13
+msgid "Are you sure you want to delete"
+msgstr "Czy na pewno chcesz usunąć"
+
+#: django_classified/templates/django_classified/item_confirm_delete.html:16
+msgid "Confirm"
+msgstr "Potwierdź"
+
+#: django_classified/templates/django_classified/item_detail.html:77
+#: django_classified/templates/django_classified/user_item_list.html:19
+msgid "Posted"
+msgstr ""
+
+#: django_classified/templates/django_classified/item_detail.html:87
+msgid "Please"
+msgstr ""
+
+#: django_classified/templates/django_classified/item_detail.html:87
+msgid "login"
+msgstr ""
+
+#: django_classified/templates/django_classified/item_detail.html:88
+msgid "to see contact information."
+msgstr "aby zobaczyć informacje kontaktowe."
+
+#: django_classified/templates/django_classified/item_form.html:5
+msgid "Add"
+msgstr "Dodaj"
+
+#: django_classified/templates/django_classified/item_form.html:21
+msgid "Save"
+msgstr "Zapisz"
+
+#: django_classified/templates/django_classified/item_list.inc.html:12
+#: django_classified/templates/django_classified/user_item_list.html:18
+msgid "Price"
+msgstr "Cena"
+
+#: django_classified/templates/django_classified/item_list.inc.html:32
+msgid "more photos available"
+msgstr "więcej dostępnych zdjęć"
+
+#: django_classified/templates/django_classified/item_list.inc.html:52
+msgid "No item here yet."
+msgstr ""
+
+#: django_classified/templates/django_classified/item_list.inc.html:53
+#: django_classified/templates/django_classified/user_item_list.html:54
+msgid "Add one now!"
+msgstr ""
+
+#: django_classified/templates/django_classified/profile.html:13
+msgid "Update"
+msgstr ""
+
+#: django_classified/templates/django_classified/search.html:6
+msgid "Search results for query"
+msgstr ""
+
+#: django_classified/templates/django_classified/search.html:26
+#, python-format
+msgid ""
+"Search results (%(count)s items\n"
+"        found):"
+msgstr ""
+
+#: django_classified/templates/django_classified/search.html:30
+msgid "Not found"
+msgstr ""
+
+#: django_classified/templates/django_classified/user_item_list.html:17
+msgid "Title"
+msgstr ""
+
+#: django_classified/templates/django_classified/user_item_list.html:20
+msgid "Active"
+msgstr ""
+
+#: django_classified/templates/django_classified/user_item_list.html:28
+msgid "Open item"
+msgstr ""
+
+#: django_classified/templates/django_classified/user_item_list.html:35
+msgid "Edit item"
+msgstr ""
+
+#: django_classified/templates/django_classified/user_item_list.html:53
+msgid "You have no items to show."
+msgstr ""
+
+#: django_classified/views.py:180
+msgid "You have reached the limit!"
+msgstr ""
+
+#: django_classified/views.py:234
+msgid "Your profile settings was updated!"
+msgstr ""
